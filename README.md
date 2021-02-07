@@ -35,7 +35,7 @@
  solutions available if this is not ideal for your purpose.
 
  Finally this bot would not be needed without the highly polished poker now bot:
- [Named Link](https://network.pokernow.club/poker_club_discord_bots "https://network.pokernow.club/poker_club_discord_bots")
+ [https://network.pokernow.club/poker_club_discord_bots](https://network.pokernow.club/poker_club_discord_bots "https://network.pokernow.club/poker_club_discord_bots")
 
 
 
