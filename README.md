@@ -4,5 +4,5 @@
  adding chips to all current players using a single command.
 
  ## Example
- ![Alt text](F:\Discord-Bot-Copy-for-Git\Images\Command.png?raw=true "Typing Command")
+ ![Alt text](F:\Discord-Bot-Copy-for-Git\Images\Command.png "Typing Command")
 
