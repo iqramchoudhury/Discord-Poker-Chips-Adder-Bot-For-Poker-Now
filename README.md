@@ -4,5 +4,5 @@
  adding chips to all current players using a single command.
 
  ## Example
- ![](Images\Command.png "Typing Command")
+ ![Typing command image](Images/Command.png "Typing Command")
 
