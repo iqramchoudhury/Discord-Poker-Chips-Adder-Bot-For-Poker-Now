@@ -30,9 +30,9 @@
  ![Code image](Images/Code.png "Code")
 
 ## Further Notes
- This bot can be used as a template to create a bot that iterates a command of another bot. Of which I couldn't find any examples 
- of before making this. Obviously, the constraint is this bot requires a list of names in a csv file, however there are many 
- solutions available if this is not ideal for your purpose.
+ This bot can be used as a template to create a discord bot that iterates a command of another bot. Of which I couldn't find any 
+ examples of before making this. Obviously, the constraint is this bot requires a list of names in a csv file, however there are 
+ many solutions available if this is not ideal for your purpose.
 
  Finally this bot would not be needed without the highly polished poker now bot:
  [https://network.pokernow.club/poker_club_discord_bots](https://network.pokernow.club/poker_club_discord_bots "https://network.pokernow.club/poker_club_discord_bots")
