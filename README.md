@@ -5,4 +5,5 @@
 
  ## Example
  ![Typing command image](Images/Command.png "Typing Command")
+ ![Command result image](Images/Result.png "Command Result")
 
